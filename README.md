@@ -1,8 +1,8 @@
-<div style="text-align: center;">
+
     [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://prajwalp06.netlify.app/)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-p-26251a1b8/)
     [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal063/)
-</div>
+
 
 
 Hello, World! I'm Prajwal P, a C1 systems engineer and full-stack developer. I'm a problem-solving enthusiast with a constantly growing love for language.
