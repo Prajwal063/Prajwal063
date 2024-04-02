@@ -43,12 +43,7 @@ Hello, World! I'm Prajwal P, a C1 systems engineer and full-stack developer. I'm
 ![AIX](https://img.shields.io/badge/AIX-%231B1464.svg?style=flat-square&logo=ibm&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000.svg?style=flat-square&logo=filezilla&logoColor=white)
 
- 
-
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://prajwalp06.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-p-26251a1b8/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal063/)
-
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://prajwalp06.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-p-26251a1b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal063/)
