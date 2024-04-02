@@ -1,15 +1,14 @@
 
-    [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://prajwalp06.netlify.app/)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-p-26251a1b8/)
-    [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal063/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://prajwalp06.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-p-26251a1b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajwal063/)
 
 
 Hello, World! I'm Prajwal P, a C1 systems engineer and full-stack developer. I'm a problem-solving enthusiast with a constantly growing love for language.
 
-<div style="text-align: center;">
   ## ⚙️ Tools And Languages
-  
+
   ### Languages
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -49,4 +48,5 @@ Hello, World! I'm Prajwal P, a C1 systems engineer and full-stack developer. I'm
   ![AIX](https://img.shields.io/badge/AIX-%231B1464.svg?style=flat-square&logo=ibm&logoColor=white)
   ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000.svg?style=flat-square&logo=filezilla&logoColor=white)
 </div>
+
 
