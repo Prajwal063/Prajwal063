@@ -49,4 +49,4 @@ Hello, World! I'm Prajwal P, a C1 systems engineer and full-stack developer. I'm
   ![FileZilla](https://img.shields.io/badge/FileZilla-%23BF0000.svg?style=flat-square&logo=filezilla&logoColor=white)
 </div>
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
